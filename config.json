@@ -1,0 +1,18 @@
+{
+    "token": "",
+    "prefix": ".",
+    "color": {
+        "positive": "GREEN",
+        "negative": "RED",
+        "neutral": "3092790",
+        "warn": "YELLOW"
+    },
+    "ownerId": "337770791200489492",
+
+    "connection": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "last"
+    }
+}
